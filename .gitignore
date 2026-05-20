@@ -1,0 +1,23 @@
+.env
+.env.local
+*.pem
+*.key
+
+.terraform/
+*.tfstate
+*.tfstate.backup
+.terraform.lock.hcl
+
+node_modules/
+npm-debug.log
+
+_ _pycache_ _/
+*.pyc
+*.pyo
+
+.DS_Store
+
+
+.idea/
+.vscode
+
